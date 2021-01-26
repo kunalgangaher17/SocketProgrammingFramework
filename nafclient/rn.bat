@@ -1,0 +1,1 @@
+java -classpath ..\nafcommon\build\libs\*;.\build\libs\*;. com.library.main.Main

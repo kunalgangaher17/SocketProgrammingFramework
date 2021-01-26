@@ -1,0 +1,6 @@
+apply plugin :'java'
+dependencies {
+compile files('c:/framework/naf/nafserver/build/libs/nafserver.jar')
+compile files('c:/framework/naf/nafcommon/build/libs/nafcommon.jar')
+compile files('c:/LibSys/dl/dist/LibSysDL.jar');
+}
